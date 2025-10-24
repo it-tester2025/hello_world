@@ -4,4 +4,4 @@ it 테스터 과정입니다.
 
 [발표자료](2조_stockr_최종발표본.pptx)<br>
 ### 시스템 시연영상
-<iframe width="928" height="522" src="https://www.youtube.com/embed/ruoQHYMg2wU?list=RDruoQHYMg2wU" title="[playlist] 🍁가을 바람결을 담은 잔잔한 인기 플레이리스트 세번째 | 비오는 날 듣기 좋은 음악 #46 🎶 Lofi Pop | cafemusic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="944" height="522" src="https://www.youtube.com/embed/m--MXud9XdI?list=RDm--MXud9XdI" title="[최신가요 실시간 인기차트] 2025년 10월 19일 3주차, 멜론차트 X, 차트둥이 공식채널, 노래모음 KPOP 플레이리스트 종합차트" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
