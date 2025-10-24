@@ -1,5 +1,5 @@
 # hello_world
-it 테스터 과정입니다. 
+it 테스터 과정입니다.  
 
 ### 고양이
 <img src="고양이.jpg"/>
